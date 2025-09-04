@@ -1,0 +1,24 @@
+{
+  "name": "eduwave",
+  "version": "1.0.0",
+  "description": "Ride the wave of knowledge. EduWave is a dynamic learning platform that keeps learners motivated with fresh and engaging content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himaanshugupta/EduWave.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himaanshugupta/EduWave/issues"
+  },
+  "homepage": "https://github.com/himaanshugupta/EduWave#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
